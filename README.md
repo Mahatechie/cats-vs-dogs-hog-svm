@@ -20,13 +20,9 @@ Used Kaggle's Cats vs Dogs dataset:
 ## 📊 Results
 - Validation Accuracy: 67.75%
 - Test Accuracy: 63.05%
-- Detailed classification reports are included in the PDF.
-
-## 📄 Report
-See `svm_cats_vs_dogs_report.pdf` for full metrics, explanation, and conclusion.
-
+- 
 ## 📌 Run
 ```bash
 python svm_cats_vs_dogs.py
-python svm_report.py
+
 
